@@ -92,7 +92,7 @@ from multi_person_detector import MultiPersonDetector
 # - model.pdiparams
 
 # 方式1：使用相对路径（推荐）
-MODEL_PATH = "../output_inference"
+MODEL_PATH = "./output_inference"
 
 # 方式2：使用绝对路径
 #MODEL_PATH = r"D:\output_inference"
