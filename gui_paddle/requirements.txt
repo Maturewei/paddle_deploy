@@ -43,7 +43,7 @@ numpy==1.26.4
 opencv-python==4.5.5.64
 opt-einsum==3.3.0
 packaging==25.0
-paddledet==0.0.0
+paddledet==2.6.0
 paddlepaddle-gpu==2.6.1.post120
 pandas==2.3.3
 pillow==11.3.0
