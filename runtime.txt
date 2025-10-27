@@ -5,6 +5,7 @@ cd PaddleDetection
 # 安装依赖（首次运行）
 pip install -r requirements.txt
 pip install streamlit
+pip install opencv-python
 
 # 编译安装
 python setup.py install
