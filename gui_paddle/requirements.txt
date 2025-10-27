@@ -1,0 +1,24 @@
+# PaddlePaddle框架
+paddlepaddle==2.6.2
+
+# Streamlit web框架
+streamlit>=1.28.0
+
+# 图像处理
+opencv-python>=4.8.0
+opencv-contrib-python>=4.8.0
+Pillow>=10.0.0
+
+# 科学计算
+numpy>=1.24.0
+pandas>=2.0.0
+
+# 可视化
+matplotlib>=3.7.0
+
+# YAML配置文件解析
+PyYAML>=6.0
+
+# 其他工具
+requests>=2.31.0
+
